@@ -5,7 +5,6 @@
   BSc (Hons) in Computing Science and IT · CCT College Dublin · May 2025
 </p>
 
----
 
 <h2>🚀 What I'm Working On</h2>
 
@@ -26,7 +25,6 @@
   </tr>
 </table>
 
----
 
 <h2>🧠 Skills & Tools</h2>
 
@@ -34,15 +32,13 @@
   <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,opencv,github&theme=dark" />
 </p>
 
----
 
 <h2>📍 Based in Dublin, Open to Opportunities</h2>
 
-- Currently looking for internships or entry-level roles in Data Science & AI  
-- I love applying tech to real-world problems, especially in mobility and social impact  
+- Currently looking for internships or entry-level roles in Data Science 
+- Ready to apply what I learned in college and gain real-world experience 
 - Fluent in English & Portuguese · EU Work Eligible  
 
----
 
 <h2>🔗 Connect with Me</h2>
 
