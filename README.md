@@ -5,12 +5,6 @@
   BSc (Hons) in Computing Science and IT · CCT College Dublin · May 2025
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/joelmarodrigues/capstone-project-BSc2025/raw/main/outputs/cycle-lane-demo.gif" width="600">
-</p>
-
 ---
 
 <h2>🚀 What I'm Working On</h2>
