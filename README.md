@@ -28,8 +28,15 @@
 
 <h2>🧠 Skills & Tools</h2>
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,opencv,github&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,opencv,github&theme=dark" </>
+  </a>
+</p>
+
+<p align="center">
+  
 </p>
 
 <h2>📍 Based in Dublin, Open to Opportunities</h2>
