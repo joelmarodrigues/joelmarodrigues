@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Joelma</h1>
 
 <p align="center">
-  <strong>Data Science • Computer Vision • AI for Impact</strong><br>
+  <strong>Data Science • Machine Learning </strong><br>
   BSc (Hons) in Computing Science and IT · CCT College Dublin · May 2025
 </p>
 
