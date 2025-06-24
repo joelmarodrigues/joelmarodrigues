@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Joelma</h1>
+<h1 align="center">Hi there 👋 I'm Joelma!</h1>
 
 <p align="center">
   <strong>Data Science • Machine Learning </strong><br>
