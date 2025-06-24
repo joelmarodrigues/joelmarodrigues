@@ -20,7 +20,7 @@
       <h3><a href="https://github.com/joelmarodrigues/cycle-counters-analysis">📈 Cycle Counters Analysis</a></h3>
       Exploratory data analysis on Dublin cycling traffic. Includes clustering, seasonal trends and policy suggestions.
       <br><br>
-      Tools: Python · Pandas · Seaborn
+      Tools: Python · Pandas · Seaborn · scikit-learn · EDA
     </td>
   </tr>
 </table>
@@ -28,12 +28,14 @@
 
 <h2>🧠 Skills & Tools</h2>
 
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,opencv,github&theme=dark" </>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
 
 <p align="center">
   
