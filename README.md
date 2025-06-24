@@ -29,9 +29,8 @@
 <h2>🧠 Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,opencv,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,opencv,github&theme=dark" />
 </p>
-
 
 <h2>📍 Based in Dublin, Open to Opportunities</h2>
 
