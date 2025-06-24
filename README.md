@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Joelma</h1>
 
-<!--
-**joelmarodrigues/joelmarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Data Science • Computer Vision • AI for Impact</strong><br>
+  BSc (Hons) in Computing Science and IT · CCT College Dublin · May 2025
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/joelmarodrigues/capstone-project-BSc2025/raw/main/outputs/cycle-lane-demo.gif" width="600">
+</p>
+
+---
+
+<h2>🚀 What I'm Working On</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/joelmarodrigues/capstone-project-BSc2025">🚴 Intelligent Cycle Lane</a></h3>
+      YOLOv8-based system to detect cyclists, helmets, scooters and safety vests. Real-world video deployment + CRISP-DM.
+      <br><br>
+      <a href="https://www.youtube.com/watch?v=vJMxqcAvS1o">🎬 Watch demo</a> · <a href="https://www.kaggle.com/datasets/joelmarodrigues/ciclovia">📦 Dataset</a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/joelmarodrigues/cycle-counters-analysis">📈 Cycle Counters Analysis</a></h3>
+      Exploratory data analysis on Dublin cycling traffic. Includes clustering, seasonal trends and policy suggestions.
+      <br><br>
+      Tools: Python · Pandas · Seaborn
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>🧠 Skills & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,opencv,github&theme=dark" />
+</p>
+
+---
+
+<h2>📍 Based in Dublin, Open to Opportunities</h2>
+
+- Currently looking for internships or entry-level roles in Data Science & AI  
+- I love applying tech to real-world problems, especially in mobility and social impact  
+- Fluent in English & Portuguese · EU Work Eligible  
+
+---
+
+<h2>🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joelma-rodrigues-510402256/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://orcid.org/0009-0007-0593-1639"><img src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?logo=orcid&style=for-the-badge"></a>
+</p>
